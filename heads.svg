@@ -3,7 +3,7 @@
 
  <g stroke="null">
   <title>background</title>
-  <rect x="-1" y="-1" width="582" height="402" id="canvas_background" fill="#ffffff" stroke="null"/>
+  <rect x="-1" y="-1" width="582" height="402" opacity="0" id="canvas_background" fill="#ffffff" stroke="null"/>
   <g id="canvasGrid" display="none" stroke="null">
    <rect id="svg_1" width="580" height="400" x="183" y="86" stroke-width="0" fill="url(#gridpattern)" stroke="null"/>
   </g>
